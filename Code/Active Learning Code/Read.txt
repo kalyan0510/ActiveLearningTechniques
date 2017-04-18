@@ -1,0 +1,2 @@
+run run.sh first in order to make the algo learn an produce reports on /reports
+then go to reports folder and run plot.sh

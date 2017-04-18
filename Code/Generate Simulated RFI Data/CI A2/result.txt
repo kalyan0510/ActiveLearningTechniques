@@ -1,0 +1,234 @@
+
+
+DATA -> and3
+Training Info - epoch=20, lrate=0.100, error=0.000
+
+Successfully Learned
+
+[-0.20000000000000004, 0.1, 0.1, 0.1]
+Expected=0, Predicted=0
+Expected=0, Predicted=0
+Expected=0, Predicted=0
+Expected=0, Predicted=0
+Expected=0, Predicted=0
+Expected=0, Predicted=0
+Expected=0, Predicted=0
+Expected=1, Predicted=1
+
+
+
+
+
+
+DATA -> or3
+Training Info - epoch=20, lrate=0.100, error=0.000
+
+Successfully Learned
+
+[-0.1, 0.1, 0.1, 0.1]
+Expected=0, Predicted=0
+Expected=1, Predicted=1
+Expected=1, Predicted=1
+Expected=1, Predicted=1
+Expected=1, Predicted=1
+Expected=1, Predicted=1
+Expected=1, Predicted=1
+Expected=1, Predicted=1
+
+
+
+
+
+
+DATA -> and2
+Training Info - epoch=20, lrate=0.100, error=0.000
+
+Successfully Learned
+
+[-0.20000000000000004, 0.2, 0.1]
+Expected=0, Predicted=0
+Expected=0, Predicted=0
+Expected=0, Predicted=0
+Expected=1, Predicted=1
+
+
+
+
+
+
+DATA -> or2
+Training Info - epoch=20, lrate=0.100, error=0.000
+
+Successfully Learned
+
+[-0.1, 0.1, 0.1]
+Expected=0, Predicted=0
+Expected=1, Predicted=1
+Expected=1, Predicted=1
+Expected=1, Predicted=1
+
+
+
+
+
+
+DATA -> nand2
+Training Info - epoch=20, lrate=0.100, error=0.000
+
+Successfully Learned
+
+[0.2, -0.2, -0.1]
+Expected=1, Predicted=1
+Expected=1, Predicted=1
+Expected=1, Predicted=1
+Expected=0, Predicted=0
+
+
+
+
+
+
+DATA -> nand3
+Training Info - epoch=20, lrate=0.100, error=0.000
+
+Successfully Learned
+
+[0.30000000000000004, -0.20000000000000004, -0.1, -0.1]
+Expected=1, Predicted=1
+Expected=1, Predicted=1
+Expected=1, Predicted=1
+Expected=1, Predicted=1
+Expected=1, Predicted=1
+Expected=1, Predicted=1
+Expected=1, Predicted=1
+Expected=0, Predicted=0
+
+
+
+
+
+
+DATA -> nor2
+Training Info - epoch=20, lrate=0.100, error=0.000
+
+Successfully Learned
+
+[0.0, -0.1, -0.1, -0.1]
+Expected=1, Predicted=1
+Expected=0, Predicted=0
+Expected=0, Predicted=0
+Expected=0, Predicted=0
+Expected=0, Predicted=0
+Expected=0, Predicted=0
+Expected=0, Predicted=0
+Expected=0, Predicted=0
+
+
+
+
+
+
+DATA -> nor2
+Training Info - epoch=20, lrate=0.100, error=0.000
+
+Successfully Learned
+
+[0.0, -0.1, -0.1, -0.1]
+Expected=1, Predicted=1
+Expected=0, Predicted=0
+Expected=0, Predicted=0
+Expected=0, Predicted=0
+Expected=0, Predicted=0
+Expected=0, Predicted=0
+Expected=0, Predicted=0
+Expected=0, Predicted=0
+
+
+
+
+
+
+DATA -> not1
+Training Info - epoch=20, lrate=0.100, error=0.000
+
+Successfully Learned
+
+[0.0, -0.1]
+Expected=1, Predicted=1
+Expected=0, Predicted=0
+
+
+
+
+
+
+DATA -> xor3
+Training Info - epoch=20, lrate=0.100, error=4.000
+
+Cannot Learn with this perceptron
+
+[-0.1, 0.1, 0.0, 0.0]
+Expected=0, Predicted=0
+Expected=1, Predicted=0
+Expected=1, Predicted=0
+Expected=0, Predicted=0
+Expected=1, Predicted=1
+Expected=0, Predicted=1
+Expected=0, Predicted=1
+Expected=1, Predicted=1
+
+
+
+
+
+
+DATA -> xor2
+Training Info - epoch=20, lrate=0.100, error=4.000
+
+Cannot Learn with this perceptron
+
+[0.0, -0.1, 0.0]
+Expected=0, Predicted=1
+Expected=1, Predicted=1
+Expected=1, Predicted=0
+Expected=0, Predicted=0
+
+
+
+
+
+
+DATA -> xnor2
+Training Info - epoch=20, lrate=0.100, error=4.000
+
+Cannot Learn with this perceptron
+
+[-0.1, 0.1, 0.0]
+Expected=1, Predicted=0
+Expected=0, Predicted=0
+Expected=0, Predicted=1
+Expected=1, Predicted=1
+
+
+
+
+
+
+DATA -> xnor3
+Training Info - epoch=20, lrate=0.100, error=4.000
+
+Cannot Learn with this perceptron
+
+[0.0, -0.1, 0.0, 0.0]
+Expected=1, Predicted=1
+Expected=0, Predicted=1
+Expected=0, Predicted=1
+Expected=1, Predicted=1
+Expected=0, Predicted=0
+Expected=1, Predicted=0
+Expected=1, Predicted=0
+Expected=0, Predicted=0
+
+
+
+
