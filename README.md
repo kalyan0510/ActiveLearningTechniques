@@ -1,6 +1,6 @@
 Comparison among Various Active Learning Strategies and CNN on RFI data
 
-Kalyan G - 125001011
+Kalyan G - 140001011
 
 Guide - Dr. Aruna Tiwari
 
